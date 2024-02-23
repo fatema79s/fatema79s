@@ -1,13 +1,20 @@
+
+
+
 <img width="250" align="right" src="https://media.tenor.com/JDV9WN1QC3kAAAAC/future-internet.gif" >
 
+
 <h3 align="center">
+  
   Welcome to Fatema Sakr's Coding Journey!
+   
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Python%20Learner;%20Visual%20Studio%20Code%20Enthusiast;%20Git,%20GitHub,%20and%20Chat%20GPT%20Explorer&font=Fira%20Code&center=true&width=440&height=45&color=c92a4c&vCenter=true&size=21"></a>
+ 
 </p>
  
 
@@ -29,6 +36,7 @@
 📧 Email: fatema1179s@gmail.com (Feel free to reach out via email)
 
 [![GitHub](https://img.shields.io/badge/GitHub-fatema79s-181717?style=for-the-badge&logo=github)](https://github.com/fatema79s)
+ <a href="(https://www.linkedin.com/in/fatema-sakr-0250622a1/)"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white" width=120px height=28px/></a>
 ### 🛠 Tech Stack:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
