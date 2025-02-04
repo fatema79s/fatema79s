@@ -36,7 +36,7 @@
 📧 Email: fatema1179s@gmail.com (Feel free to reach out via email)
 
 [![GitHub](https://img.shields.io/badge/GitHub-fatema79s-181717?style=for-the-badge&logo=github)](https://github.com/fatema79s)
- <a href="(https://www.linkedin.com/in/fatema-sakr-0250622a1/)"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white" width=120px height=28px/></a>
+ <a href="https://www.linkedin.com/in/fatema-sakr-0250622a1/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white" width=120px height=28px/></a>
 ### 🛠 Tech Stack:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
