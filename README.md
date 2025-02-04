@@ -13,7 +13,7 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=HTML%20CSS%20SCSS /Sass%20TailwindCSS%20JavaScript%20React%20Python%20Learner;%20Visual%20Studio%20Code%20Enthusiast;%20Git,%20GitHub,%20and%20Chat%20GPT%20Explorer&font=Fira%20Code&center=true&width=440&height=45&color=c92a4c&vCenter=true&size=21"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=      HTML%20CSS%20SCSS/Sass%20TailwindCSS%20JavaScript%20React%20Python%20Learner;%20Visual%20Studio%20Code%20Enthusiast;%20Git,%20GitHub,%20and%20Chat%20GPT%20Explorer&font=Fira%20Code&center=true&width=440&height=45&color=c92a4c&vCenter=true&size=21"></a>
  
 </p>
  
