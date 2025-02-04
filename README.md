@@ -13,8 +13,9 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=      HTML%10CSS%10SCSS/Sass%10TailwindCSS%10JavaScript%10React%10Python%10Learner;%10Visual%10Studio%10Code%10Enthusiast;%10Git,%10GitHub,%10and%10Chat%10GPT%10Explorer&font=Fira%10Code&center=true&width=440&height=45&color=c92a4c&vCenter=true&size=21"></a>
- 
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=HTML%0ACSS%0ASCSS/Sass%0ATailwindCSS%0AJavaScript%0AReact%0APython%0ALearner%3B%0AVisual%0AStudio%0ACode%0AEnthusiast%3B%0AGit%2C%0AGitHub%2C%0Aand%0AChat%0AGPT%0AExplorer&font=Fira%0ACode&center=true&width=440&height=45&color=c92a4c&vCenter=true&size=21">
+  </a>
 </p>
  
 
