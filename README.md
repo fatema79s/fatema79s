@@ -4,7 +4,7 @@
 <img width="250" align="right" src="https://media.tenor.com/JDV9WN1QC3kAAAAC/future-internet.gif" >
 
 
-<h3 align="center"&color=fec3df>
+<h3 align="center" color="fec3df">
   
   Welcome to Fatema Sakr's Coding Journey!
    
