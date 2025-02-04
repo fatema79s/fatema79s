@@ -19,7 +19,7 @@
  
 
 - 🏢 I'm a beginner in programming  
-- 👨‍💻 Learning and exploring Python, Visual Studio Code, Git, GitHub, and Chat GPT.
+- 👨‍💻 Learning and exploring HTML, CSS, SCSS / Sass, Tailwind CSS, JavaScript,  React, Python, Visual Studio Code, Git, GitHub, and Chat GPT.
 - 💬 Ask me about my experiences with these tools and technologies.
 - ⚡ Fun Fact: Do your best to be a skilled programmer, but you will always be a student.
 
