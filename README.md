@@ -8,13 +8,14 @@
 </h3>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+
+<img width="270" align="right" src="https://media.tenor.com/EdiGYFaZg7sAAAAj/jaded-disappointed.gif">
+
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Junior+Frontend+Developer;Always+learning+new&font=Fira+Code&center=true&width=440&height=70&color=f19cbb&vCenter=true&size=22">
   </a>
 </p>
-
-<img width="270" align="right" src="https://media.tenor.com/EdiGYFaZg7sAAAAj/jaded-disappointed.gif">
 
 - 🏢 I'm a Junior Frontend Developer skilled in JavaScript, React. <br/>
   
