@@ -1,6 +1,6 @@
 
 
-<img width="270" align="right" src="https://media1.tenor.com/m/F1XAiC9HVBMAAAAd/coding-codingisfun.gif">
+
 
 <h3 align="center">
   Welcome to Fatema Sakr's profile!
@@ -14,9 +14,11 @@
   </a>
 </p>
 
+<img width="270" align="right" src="https://media.tenor.com/EdiGYFaZg7sAAAAj/jaded-disappointed.gif">
+
 - 🏢 I'm a Junior Frontend Developer skilled in JavaScript, React. <br/>
   
-- 👨💻I have worked on projects , and continuously strive to improve my skills and contribute to impactful teams.
+- 👩💻I have worked on projects , and continuously strive to improve my skills and contribute to impactful teams.
     
 - 💬 Ask me about my experience with HTML, CSS, Sass, Tailwind CSS, JavaScript, React, and more.
   
